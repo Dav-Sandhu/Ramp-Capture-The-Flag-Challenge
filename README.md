@@ -3,4 +3,7 @@ The server/index.js file contains the proof for the deciphering of the hidden we
 
 [1]: https://wgg522pwivhvi5gqsn675gth3q0otdja.lambda-url.us-east-1.on.aws/717561 
 [2]: https://tns4lpgmziiypnxxzel5ss5nyu0nftol.lambda-url.us-east-1.on.aws/ramp-challenge-instructions/
-\[\3]: quality
+
+Base64 Text: https://tns4lpgmziiypnxxzel5ss5nyu0nftol.lambda-url.us-east-1.on.aws/ramp-challenge-instructions/
+Hidden Website: https://wgg522pwivhvi5gqsn675gth3q0otdja.lambda-url.us-east-1.on.aws/717561 
+Hidden word: quality
